@@ -5,4 +5,6 @@ app.MapGet("/", () => "Hello World!");
 
 app.MapGet("/ping", () => "pong!");
 
+app.MapGet("/version", () => "versions");
+
 app.Run();
