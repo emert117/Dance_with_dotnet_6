@@ -1,0 +1,15 @@
+/home/emre/repos/dotnet_playground/PrimeNumber/bin/Debug/net6.0/PrimeNumber
+/home/emre/repos/dotnet_playground/PrimeNumber/bin/Debug/net6.0/PrimeNumber.deps.json
+/home/emre/repos/dotnet_playground/PrimeNumber/bin/Debug/net6.0/PrimeNumber.runtimeconfig.json
+/home/emre/repos/dotnet_playground/PrimeNumber/bin/Debug/net6.0/PrimeNumber.dll
+/home/emre/repos/dotnet_playground/PrimeNumber/bin/Debug/net6.0/PrimeNumber.pdb
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/PrimeNumber.csproj.AssemblyReference.cache
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/PrimeNumber.AssemblyInfoInputs.cache
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/PrimeNumber.AssemblyInfo.cs
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/PrimeNumber.csproj.CoreCompileInputs.cache
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/PrimeNumber.dll
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/refint/PrimeNumber.dll
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/PrimeNumber.pdb
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/PrimeNumber.genruntimeconfig.cache
+/home/emre/repos/dotnet_playground/PrimeNumber/obj/Debug/net6.0/ref/PrimeNumber.dll
